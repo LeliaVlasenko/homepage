@@ -1,4 +1,4 @@
-General styles
+
 * {
     margin: 0;
     padding: 0;
@@ -68,7 +68,6 @@ body {
         margin-right: 0;
     }
 }
-Contact info styles
   .contact-info__header,
   .contact-info__sub-header {
       text-align: center;
@@ -131,7 +130,6 @@ Contact info styles
       border: 3px solid;
       border-color: var(--text-decoration-color);
   }
-  Intro and skills styles
 .intro {
     display: flex;
     justify-content: start;
@@ -168,7 +166,6 @@ Contact info styles
     color: var(--secondary-text-color);
     text-align: justify;
 }
-Experience and additonal info styles
 .experiences {
     flex: 1 1 60%;
     margin-right: 50px;
